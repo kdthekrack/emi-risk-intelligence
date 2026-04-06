@@ -205,16 +205,6 @@ A **Random Forest model** captures these relationships better than rule-based sy
 
 ---
 
-## 📸 Screenshots (Add These)
-
-* UI dashboard
-* Cash flow chart
-* Savings depletion graph
-
-*(Adding visuals significantly improves project impact)*
-
----
-
 ## 📌 Summary
 
 This project demonstrates:
